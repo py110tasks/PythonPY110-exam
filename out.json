@@ -1,0 +1,1617 @@
+[
+  {
+    "model": "shop_final.book",
+    "pk": 1,
+    "fields": {
+      "title": "Книга раз",
+      "year": 1950,
+      "pages": 932,
+      "isbn13": "978-1-350-20020-3",
+      "rating": 3.65,
+      "price": 810.1,
+      "author": [
+        "Ryan Johnson",
+        "Scott Leblanc",
+        "James Lopez"
+      ]
+    }
+  },
+  {
+    "model": "shop_final.book",
+    "pk": 2,
+    "fields": {
+      "title": "Книга четыре",
+      "year": 2006,
+      "pages": 945,
+      "isbn13": "978-0-09-665965-8",
+      "rating": 3.88,
+      "price": 291.11,
+      "author": [
+        "Daniel Manning"
+      ]
+    }
+  },
+  {
+    "model": "shop_final.book",
+    "pk": 3,
+    "fields": {
+      "title": "Книга три",
+      "year": 1981,
+      "pages": 439,
+      "isbn13": "978-0-561-98258-8",
+      "rating": 4.59,
+      "price": 539.35,
+      "author": [
+        "Mark Howard",
+        "Laurie Peck",
+        "Kimberly Edwards"
+      ]
+    }
+  },
+  {
+    "model": "shop_final.book",
+    "pk": 4,
+    "fields": {
+      "title": "Книга три",
+      "year": 2001,
+      "pages": 112,
+      "isbn13": "978-1-80932-967-7",
+      "rating": 4.67,
+      "price": 321.41,
+      "author": [
+        "John Hayes",
+        "Mark Ford"
+      ]
+    }
+  },
+  {
+    "model": "shop_final.book",
+    "pk": 5,
+    "fields": {
+      "title": "Книга пять",
+      "year": 1964,
+      "pages": 390,
+      "isbn13": "978-1-391-07569-3",
+      "rating": 2.58,
+      "price": 729.77,
+      "author": [
+        "Ana Townsend",
+        "Alexandra Price"
+      ]
+    }
+  },
+  {
+    "model": "shop_final.book",
+    "pk": 6,
+    "fields": {
+      "title": "Книга пять",
+      "year": 1924,
+      "pages": 87,
+      "isbn13": "978-0-7503-7953-3",
+      "rating": 3.69,
+      "price": 879.88,
+      "author": [
+        "Michael Parker"
+      ]
+    }
+  },
+  {
+    "model": "shop_final.book",
+    "pk": 7,
+    "fields": {
+      "title": "Книга три",
+      "year": 1957,
+      "pages": 756,
+      "isbn13": "978-1-02-329194-1",
+      "rating": 0.16,
+      "price": 673.14,
+      "author": [
+        "Randall Phillips",
+        "Daniel Neal",
+        "Shawn Santana"
+      ]
+    }
+  },
+  {
+    "model": "shop_final.book",
+    "pk": 8,
+    "fields": {
+      "title": "Книга три",
+      "year": 1984,
+      "pages": 667,
+      "isbn13": "978-0-626-90275-9",
+      "rating": 0.2,
+      "price": 126.98,
+      "author": [
+        "Heather Collins"
+      ]
+    }
+  },
+  {
+    "model": "shop_final.book",
+    "pk": 9,
+    "fields": {
+      "title": "Книга два",
+      "year": 1929,
+      "pages": 157,
+      "isbn13": "978-0-05-076002-4",
+      "rating": 0.43,
+      "price": 342.66,
+      "author": [
+        "Jordan Andersen",
+        "Samuel Conley"
+      ]
+    }
+  },
+  {
+    "model": "shop_final.book",
+    "pk": 10,
+    "fields": {
+      "title": "Книга четыре",
+      "year": 1980,
+      "pages": 71,
+      "isbn13": "978-1-65679-380-5",
+      "rating": 4.82,
+      "price": 197.78,
+      "author": [
+        "Brandon Bradley",
+        "Charles Brown",
+        "Rachel Rosales"
+      ]
+    }
+  },
+  {
+    "model": "shop_final.book",
+    "pk": 11,
+    "fields": {
+      "title": "Книга два",
+      "year": 1934,
+      "pages": 54,
+      "isbn13": "978-1-7381659-2-6",
+      "rating": 3.8,
+      "price": 996.54,
+      "author": [
+        "Michael Thompson",
+        "Larry Jones",
+        "Samantha Harrison"
+      ]
+    }
+  },
+  {
+    "model": "shop_final.book",
+    "pk": 12,
+    "fields": {
+      "title": "Книга пять",
+      "year": 1975,
+      "pages": 313,
+      "isbn13": "978-1-81490-754-9",
+      "rating": 2.14,
+      "price": 321.58,
+      "author": [
+        "Hayley Flowers",
+        "Mallory Alvarado"
+      ]
+    }
+  },
+  {
+    "model": "shop_final.book",
+    "pk": 13,
+    "fields": {
+      "title": "Книга четыре",
+      "year": 1998,
+      "pages": 519,
+      "isbn13": "978-1-74762-495-7",
+      "rating": 0.27,
+      "price": 242.08,
+      "author": [
+        "Matthew Bailey",
+        "Steven Deleon"
+      ]
+    }
+  },
+  {
+    "model": "shop_final.book",
+    "pk": 14,
+    "fields": {
+      "title": "Еще одно название...",
+      "year": 2008,
+      "pages": 272,
+      "isbn13": "978-0-02-409841-2",
+      "rating": 4.49,
+      "price": 442.31,
+      "author": [
+        "Mark Walters"
+      ]
+    }
+  },
+  {
+    "model": "shop_final.book",
+    "pk": 15,
+    "fields": {
+      "title": "Еще одно название...",
+      "year": 1945,
+      "pages": 283,
+      "isbn13": "978-0-352-05223-0",
+      "rating": 1.04,
+      "price": 234.3,
+      "author": [
+        "Mason Cohen"
+      ]
+    }
+  },
+  {
+    "model": "shop_final.book",
+    "pk": 16,
+    "fields": {
+      "title": "Книга раз",
+      "year": 1998,
+      "pages": 717,
+      "isbn13": "978-0-212-19079-9",
+      "rating": 2.66,
+      "price": 117.85,
+      "author": [
+        "Aaron Russell",
+        "Nicholas Crane",
+        "Elizabeth Young DVM"
+      ]
+    }
+  },
+  {
+    "model": "shop_final.book",
+    "pk": 17,
+    "fields": {
+      "title": "Еще одно название...",
+      "year": 1989,
+      "pages": 100,
+      "isbn13": "978-0-02-805931-0",
+      "rating": 2.48,
+      "price": 607.76,
+      "author": [
+        "Lance Williams",
+        "Derrick Wolfe"
+      ]
+    }
+  },
+  {
+    "model": "shop_final.book",
+    "pk": 18,
+    "fields": {
+      "title": "Очень-очень длинное-длинное название книги.",
+      "year": 1960,
+      "pages": 855,
+      "isbn13": "978-0-618-76008-4",
+      "rating": 0.86,
+      "price": 767.55,
+      "author": [
+        "Don Morrison"
+      ]
+    }
+  },
+  {
+    "model": "shop_final.book",
+    "pk": 19,
+    "fields": {
+      "title": "Книга раз",
+      "year": 1995,
+      "pages": 648,
+      "isbn13": "978-0-8487-4713-8",
+      "rating": 3.33,
+      "price": 428.13,
+      "author": [
+        "Daniel Smith",
+        "Samuel Wood"
+      ]
+    }
+  },
+  {
+    "model": "shop_final.book",
+    "pk": 20,
+    "fields": {
+      "title": "Книга два",
+      "year": 2015,
+      "pages": 319,
+      "isbn13": "978-0-07-693159-0",
+      "rating": 0.31,
+      "price": 416.44,
+      "author": [
+        "William Keller",
+        "William Fernandez",
+        "Jeffrey King"
+      ]
+    }
+  },
+  {
+    "model": "shop_final.book",
+    "pk": 21,
+    "fields": {
+      "title": "Очень-очень длинное-длинное название книги.",
+      "year": 1960,
+      "pages": 148,
+      "isbn13": "978-0-357-40983-1",
+      "rating": 2.04,
+      "price": 573.53,
+      "author": [
+        "Jacqueline Henson",
+        "Makayla Scott",
+        "Teresa May"
+      ]
+    }
+  },
+  {
+    "model": "shop_final.book",
+    "pk": 22,
+    "fields": {
+      "title": "Книга два",
+      "year": 1922,
+      "pages": 478,
+      "isbn13": "978-1-145-25874-7",
+      "rating": 0.82,
+      "price": 275.96,
+      "author": [
+        "Karen Robinson",
+        "Steven Chaney",
+        "Samuel Smith"
+      ]
+    }
+  },
+  {
+    "model": "shop_final.book",
+    "pk": 23,
+    "fields": {
+      "title": "Книга три",
+      "year": 1959,
+      "pages": 61,
+      "isbn13": "978-1-133-65808-5",
+      "rating": 1.17,
+      "price": 244.39,
+      "author": [
+        "Alejandro Beard IV"
+      ]
+    }
+  },
+  {
+    "model": "shop_final.book",
+    "pk": 24,
+    "fields": {
+      "title": "Книга пять",
+      "year": 1986,
+      "pages": 938,
+      "isbn13": "978-1-07-247231-5",
+      "rating": 1.12,
+      "price": 372.65,
+      "author": [
+        "Richard Rodriguez",
+        "Jessica Graves",
+        "Katie Shaw"
+      ]
+    }
+  },
+  {
+    "model": "shop_final.book",
+    "pk": 25,
+    "fields": {
+      "title": "Книга пять",
+      "year": 1922,
+      "pages": 628,
+      "isbn13": "978-1-77000-719-2",
+      "rating": 3.64,
+      "price": 587.61,
+      "author": [
+        "Carol Horn",
+        "Kenneth Jenkins",
+        "Eduardo Cooper"
+      ]
+    }
+  },
+  {
+    "model": "shop_final.book",
+    "pk": 26,
+    "fields": {
+      "title": "Книга три",
+      "year": 1991,
+      "pages": 154,
+      "isbn13": "978-1-79716-748-0",
+      "rating": 3.96,
+      "price": 766.8,
+      "author": [
+        "Michael Henry",
+        "Ashley Peters",
+        "Courtney Green"
+      ]
+    }
+  },
+  {
+    "model": "shop_final.book",
+    "pk": 27,
+    "fields": {
+      "title": "Очень-очень длинное-длинное название книги.",
+      "year": 1964,
+      "pages": 953,
+      "isbn13": "978-1-4803-7361-7",
+      "rating": 4.89,
+      "price": 872.14,
+      "author": [
+        "Donald Ruiz"
+      ]
+    }
+  },
+  {
+    "model": "shop_final.book",
+    "pk": 28,
+    "fields": {
+      "title": "Книга раз",
+      "year": 1991,
+      "pages": 387,
+      "isbn13": "978-0-680-72807-4",
+      "rating": 1.54,
+      "price": 144.33,
+      "author": [
+        "Alexander Thompson",
+        "Theresa Ayers"
+      ]
+    }
+  },
+  {
+    "model": "shop_final.book",
+    "pk": 29,
+    "fields": {
+      "title": "Книга четыре",
+      "year": 1994,
+      "pages": 929,
+      "isbn13": "978-1-188-32094-4",
+      "rating": 4.81,
+      "price": 419.35,
+      "author": [
+        "Lisa Smith",
+        "Michael Singh",
+        "Scott Rivera"
+      ]
+    }
+  },
+  {
+    "model": "shop_final.book",
+    "pk": 30,
+    "fields": {
+      "title": "Очень-очень длинное-длинное название книги.",
+      "year": 1974,
+      "pages": 549,
+      "isbn13": "978-1-299-28510-1",
+      "rating": 3.53,
+      "price": 784.49,
+      "author": [
+        "Heather Soto"
+      ]
+    }
+  },
+  {
+    "model": "shop_final.book",
+    "pk": 31,
+    "fields": {
+      "title": "Еще одно название...",
+      "year": 2002,
+      "pages": 48,
+      "isbn13": "978-0-8319-1351-9",
+      "rating": 0.68,
+      "price": 625.94,
+      "author": [
+        "Alexander Harvey"
+      ]
+    }
+  },
+  {
+    "model": "shop_final.book",
+    "pk": 32,
+    "fields": {
+      "title": "Очень-очень длинное-длинное название книги.",
+      "year": 1973,
+      "pages": 731,
+      "isbn13": "978-0-7913-3264-1",
+      "rating": 4.06,
+      "price": 386.89,
+      "author": [
+        "Nicholas Bailey",
+        "April Dunn",
+        "Timothy Beck"
+      ]
+    }
+  },
+  {
+    "model": "shop_final.book",
+    "pk": 33,
+    "fields": {
+      "title": "Еще одно название...",
+      "year": 2005,
+      "pages": 58,
+      "isbn13": "978-0-09-452515-3",
+      "rating": 1.66,
+      "price": 519.6,
+      "author": [
+        "Charles Suarez Jr."
+      ]
+    }
+  },
+  {
+    "model": "shop_final.book",
+    "pk": 34,
+    "fields": {
+      "title": "Очень-очень длинное-длинное название книги.",
+      "year": 1937,
+      "pages": 750,
+      "isbn13": "978-0-06-497504-9",
+      "rating": 3.16,
+      "price": 905.11,
+      "author": [
+        "Blake Chen",
+        "William Rogers",
+        "Theresa Ward"
+      ]
+    }
+  },
+  {
+    "model": "shop_final.book",
+    "pk": 35,
+    "fields": {
+      "title": "Книга четыре",
+      "year": 1988,
+      "pages": 746,
+      "isbn13": "978-0-361-23058-2",
+      "rating": 0.17,
+      "price": 961.32,
+      "author": [
+        "Alicia Barton",
+        "Robert Robinson",
+        "Charles Miller"
+      ]
+    }
+  },
+  {
+    "model": "shop_final.book",
+    "pk": 36,
+    "fields": {
+      "title": "Очень-очень длинное-длинное название книги.",
+      "year": 1973,
+      "pages": 814,
+      "isbn13": "978-1-69750-199-5",
+      "rating": 4.55,
+      "price": 563.58,
+      "author": [
+        "Angela Frazier",
+        "Jane Huffman",
+        "Brandon Ford"
+      ]
+    }
+  },
+  {
+    "model": "shop_final.book",
+    "pk": 37,
+    "fields": {
+      "title": "Книга четыре",
+      "year": 1925,
+      "pages": 478,
+      "isbn13": "978-1-81704-402-9",
+      "rating": 2.36,
+      "price": 167.22,
+      "author": [
+        "Ana Simon",
+        "Barbara Hopkins"
+      ]
+    }
+  },
+  {
+    "model": "shop_final.book",
+    "pk": 38,
+    "fields": {
+      "title": "Книга раз",
+      "year": 1941,
+      "pages": 861,
+      "isbn13": "978-1-9797-6539-8",
+      "rating": 3.21,
+      "price": 853.48,
+      "author": [
+        "Kaitlyn Castaneda",
+        "Catherine Mejia",
+        "Anna Kelly"
+      ]
+    }
+  },
+  {
+    "model": "shop_final.book",
+    "pk": 39,
+    "fields": {
+      "title": "Книга раз",
+      "year": 2011,
+      "pages": 302,
+      "isbn13": "978-0-06-356676-7",
+      "rating": 1.45,
+      "price": 526.03,
+      "author": [
+        "Jason Scott",
+        "Debbie Carter",
+        "Shannon Rowland"
+      ]
+    }
+  },
+  {
+    "model": "shop_final.book",
+    "pk": 40,
+    "fields": {
+      "title": "Книга три",
+      "year": 2018,
+      "pages": 360,
+      "isbn13": "978-0-8121-1271-9",
+      "rating": 3.65,
+      "price": 278.49,
+      "author": [
+        "Ashley Moreno",
+        "Ashley Carrillo"
+      ]
+    }
+  },
+  {
+    "model": "shop_final.book",
+    "pk": 41,
+    "fields": {
+      "title": "Еще одно название...",
+      "year": 1992,
+      "pages": 243,
+      "isbn13": "978-1-950305-38-4",
+      "rating": 2.1,
+      "price": 518.4,
+      "author": [
+        "Michael Higgins",
+        "Diane Burton",
+        "Daniel Simmons"
+      ]
+    }
+  },
+  {
+    "model": "shop_final.book",
+    "pk": 42,
+    "fields": {
+      "title": "Еще одно название...",
+      "year": 2015,
+      "pages": 900,
+      "isbn13": "978-0-312-15571-1",
+      "rating": 0.47,
+      "price": 140.19,
+      "author": [
+        "Robert Gomez",
+        "Ashley Peters"
+      ]
+    }
+  },
+  {
+    "model": "shop_final.book",
+    "pk": 43,
+    "fields": {
+      "title": "Очень-очень длинное-длинное название книги.",
+      "year": 1921,
+      "pages": 230,
+      "isbn13": "978-1-71265-313-5",
+      "rating": 3.4,
+      "price": 478.33,
+      "author": [
+        "Brittany Reyes"
+      ]
+    }
+  },
+  {
+    "model": "shop_final.book",
+    "pk": 44,
+    "fields": {
+      "title": "Очень-очень длинное-длинное название книги.",
+      "year": 2021,
+      "pages": 88,
+      "isbn13": "978-1-896643-03-8",
+      "rating": 2.77,
+      "price": 815.74,
+      "author": [
+        "Thomas Mcgrath",
+        "Stacey Allen"
+      ]
+    }
+  },
+  {
+    "model": "shop_final.book",
+    "pk": 45,
+    "fields": {
+      "title": "Книга четыре",
+      "year": 1991,
+      "pages": 480,
+      "isbn13": "978-0-9666108-4-0",
+      "rating": 0.3,
+      "price": 257.16,
+      "author": [
+        "Timothy Pearson",
+        "Randy Townsend",
+        "Kelly Kelley"
+      ]
+    }
+  },
+  {
+    "model": "shop_final.book",
+    "pk": 46,
+    "fields": {
+      "title": "Книга раз",
+      "year": 1936,
+      "pages": 83,
+      "isbn13": "978-0-277-05131-8",
+      "rating": 4.89,
+      "price": 303.88,
+      "author": [
+        "Cynthia Lopez"
+      ]
+    }
+  },
+  {
+    "model": "shop_final.book",
+    "pk": 47,
+    "fields": {
+      "title": "Книга пять",
+      "year": 1991,
+      "pages": 325,
+      "isbn13": "978-0-225-99167-3",
+      "rating": 2.92,
+      "price": 311.37,
+      "author": [
+        "Sally Zuniga"
+      ]
+    }
+  },
+  {
+    "model": "shop_final.book",
+    "pk": 48,
+    "fields": {
+      "title": "Очень-очень длинное-длинное название книги.",
+      "year": 2020,
+      "pages": 587,
+      "isbn13": "978-1-258-95930-2",
+      "rating": 0.64,
+      "price": 210.87,
+      "author": [
+        "Randy Lee",
+        "Lauren Blankenship",
+        "Linda Frank"
+      ]
+    }
+  },
+  {
+    "model": "shop_final.book",
+    "pk": 49,
+    "fields": {
+      "title": "Книга два",
+      "year": 2015,
+      "pages": 426,
+      "isbn13": "978-1-06-881665-9",
+      "rating": 1.38,
+      "price": 219.83,
+      "author": [
+        "Jill Hernandez"
+      ]
+    }
+  },
+  {
+    "model": "shop_final.book",
+    "pk": 50,
+    "fields": {
+      "title": "Книга два",
+      "year": 1981,
+      "pages": 863,
+      "isbn13": "978-1-5238-0280-7",
+      "rating": 0.05,
+      "price": 290.89,
+      "author": [
+        "Michael Curtis",
+        "Jennifer Schmidt"
+      ]
+    }
+  },
+  {
+    "model": "shop_final.book",
+    "pk": 51,
+    "fields": {
+      "title": "Книга три",
+      "year": 1947,
+      "pages": 646,
+      "isbn13": "978-1-141-20797-8",
+      "rating": 4.43,
+      "price": 717.31,
+      "author": [
+        "Evan Ford",
+        "William Davis"
+      ]
+    }
+  },
+  {
+    "model": "shop_final.book",
+    "pk": 52,
+    "fields": {
+      "title": "Книга три",
+      "year": 1990,
+      "pages": 259,
+      "isbn13": "978-0-7328-8172-6",
+      "rating": 0.94,
+      "price": 441.77,
+      "author": [
+        "Elizabeth Cole",
+        "Daniel Wright DVM"
+      ]
+    }
+  },
+  {
+    "model": "shop_final.book",
+    "pk": 53,
+    "fields": {
+      "title": "Книга раз",
+      "year": 1943,
+      "pages": 139,
+      "isbn13": "978-1-03-254493-9",
+      "rating": 3.1,
+      "price": 250.24,
+      "author": [
+        "Bobby Jones",
+        "Jason Wilson",
+        "Wanda Washington"
+      ]
+    }
+  },
+  {
+    "model": "shop_final.book",
+    "pk": 54,
+    "fields": {
+      "title": "Книга раз",
+      "year": 2002,
+      "pages": 795,
+      "isbn13": "978-1-5218-4899-9",
+      "rating": 2.0,
+      "price": 661.58,
+      "author": [
+        "Stephen Smith"
+      ]
+    }
+  },
+  {
+    "model": "shop_final.book",
+    "pk": 55,
+    "fields": {
+      "title": "Книга раз",
+      "year": 1971,
+      "pages": 631,
+      "isbn13": "978-1-4494-4326-9",
+      "rating": 1.56,
+      "price": 310.62,
+      "author": [
+        "Sydney Solomon"
+      ]
+    }
+  },
+  {
+    "model": "shop_final.book",
+    "pk": 56,
+    "fields": {
+      "title": "Книга четыре",
+      "year": 1990,
+      "pages": 546,
+      "isbn13": "978-0-7049-4922-5",
+      "rating": 4.44,
+      "price": 523.02,
+      "author": [
+        "Cynthia Ramirez"
+      ]
+    }
+  },
+  {
+    "model": "shop_final.book",
+    "pk": 57,
+    "fields": {
+      "title": "Книга три",
+      "year": 2005,
+      "pages": 170,
+      "isbn13": "978-1-889556-61-1",
+      "rating": 3.73,
+      "price": 199.34,
+      "author": [
+        "Nicole Oliver",
+        "Matthew Hurley"
+      ]
+    }
+  },
+  {
+    "model": "shop_final.book",
+    "pk": 58,
+    "fields": {
+      "title": "Книга четыре",
+      "year": 1968,
+      "pages": 972,
+      "isbn13": "978-1-324-29906-6",
+      "rating": 0.25,
+      "price": 921.64,
+      "author": [
+        "Felicia Johnston",
+        "Nicole Logan"
+      ]
+    }
+  },
+  {
+    "model": "shop_final.book",
+    "pk": 59,
+    "fields": {
+      "title": "Очень-очень длинное-длинное название книги.",
+      "year": 1923,
+      "pages": 875,
+      "isbn13": "978-1-9856-0762-0",
+      "rating": 2.59,
+      "price": 485.28,
+      "author": [
+        "Lisa Sawyer"
+      ]
+    }
+  },
+  {
+    "model": "shop_final.book",
+    "pk": 60,
+    "fields": {
+      "title": "Очень-очень длинное-длинное название книги.",
+      "year": 1977,
+      "pages": 491,
+      "isbn13": "978-0-10-163677-3",
+      "rating": 2.04,
+      "price": 320.97,
+      "author": [
+        "Tammy Robinson",
+        "Courtney Powell",
+        "Eric Francis"
+      ]
+    }
+  },
+  {
+    "model": "shop_final.book",
+    "pk": 61,
+    "fields": {
+      "title": "Книга четыре",
+      "year": 1910,
+      "pages": 410,
+      "isbn13": "978-0-568-04261-2",
+      "rating": 4.74,
+      "price": 854.44,
+      "author": [
+        "Daniel Daniel",
+        "Diane Hall",
+        "Melinda Preston"
+      ]
+    }
+  },
+  {
+    "model": "shop_final.book",
+    "pk": 62,
+    "fields": {
+      "title": "Книга три",
+      "year": 1973,
+      "pages": 872,
+      "isbn13": "978-0-15-223875-9",
+      "rating": 1.8,
+      "price": 434.9,
+      "author": [
+        "Sean Burns",
+        "Mike Jimenez",
+        "Denise Wilson"
+      ]
+    }
+  },
+  {
+    "model": "shop_final.book",
+    "pk": 63,
+    "fields": {
+      "title": "Книга два",
+      "year": 1905,
+      "pages": 734,
+      "isbn13": "978-1-02-488086-1",
+      "rating": 1.61,
+      "price": 836.04,
+      "author": [
+        "Abigail Porter",
+        "Christopher Lewis",
+        "Stephen Lee"
+      ]
+    }
+  },
+  {
+    "model": "shop_final.book",
+    "pk": 64,
+    "fields": {
+      "title": "Очень-очень длинное-длинное название книги.",
+      "year": 2016,
+      "pages": 26,
+      "isbn13": "978-0-581-80562-1",
+      "rating": 3.22,
+      "price": 511.95,
+      "author": [
+        "Marcus Mcknight",
+        "Carrie Ball"
+      ]
+    }
+  },
+  {
+    "model": "shop_final.book",
+    "pk": 65,
+    "fields": {
+      "title": "Книга пять",
+      "year": 2008,
+      "pages": 175,
+      "isbn13": "978-1-194-92839-4",
+      "rating": 4.31,
+      "price": 351.87,
+      "author": [
+        "Aimee Jordan",
+        "Jackson Salinas",
+        "Laura Norman"
+      ]
+    }
+  },
+  {
+    "model": "shop_final.book",
+    "pk": 66,
+    "fields": {
+      "title": "Книга раз",
+      "year": 1964,
+      "pages": 301,
+      "isbn13": "978-1-957684-62-8",
+      "rating": 3.91,
+      "price": 982.96,
+      "author": [
+        "Peter Vaughn"
+      ]
+    }
+  },
+  {
+    "model": "shop_final.book",
+    "pk": 67,
+    "fields": {
+      "title": "Очень-очень длинное-длинное название книги.",
+      "year": 1929,
+      "pages": 606,
+      "isbn13": "978-1-02-681721-6",
+      "rating": 1.19,
+      "price": 407.99,
+      "author": [
+        "Ashley Taylor",
+        "Jason Fuller",
+        "Luis Todd"
+      ]
+    }
+  },
+  {
+    "model": "shop_final.book",
+    "pk": 68,
+    "fields": {
+      "title": "Книга раз",
+      "year": 1920,
+      "pages": 682,
+      "isbn13": "978-1-906939-76-2",
+      "rating": 3.15,
+      "price": 935.43,
+      "author": [
+        "Tanner Jackson"
+      ]
+    }
+  },
+  {
+    "model": "shop_final.book",
+    "pk": 69,
+    "fields": {
+      "title": "Очень-очень длинное-длинное название книги.",
+      "year": 1923,
+      "pages": 224,
+      "isbn13": "978-1-876674-10-6",
+      "rating": 3.73,
+      "price": 450.1,
+      "author": [
+        "Beth Monroe",
+        "Steven Johnson"
+      ]
+    }
+  },
+  {
+    "model": "shop_final.book",
+    "pk": 70,
+    "fields": {
+      "title": "Очень-очень длинное-длинное название книги.",
+      "year": 1954,
+      "pages": 49,
+      "isbn13": "978-1-288-37951-4",
+      "rating": 2.38,
+      "price": 364.12,
+      "author": [
+        "Debra Martin",
+        "Katherine Jensen"
+      ]
+    }
+  },
+  {
+    "model": "shop_final.book",
+    "pk": 71,
+    "fields": {
+      "title": "Очень-очень длинное-длинное название книги.",
+      "year": 1930,
+      "pages": 707,
+      "isbn13": "978-0-405-00173-4",
+      "rating": 0.84,
+      "price": 682.05,
+      "author": [
+        "Donna Guerrero",
+        "Derek Camacho",
+        "Jenny Kelly"
+      ]
+    }
+  },
+  {
+    "model": "shop_final.book",
+    "pk": 72,
+    "fields": {
+      "title": "Очень-очень длинное-длинное название книги.",
+      "year": 1996,
+      "pages": 382,
+      "isbn13": "978-1-170-41391-3",
+      "rating": 2.75,
+      "price": 610.99,
+      "author": [
+        "Brian Rodriguez",
+        "Jacob House",
+        "Scott Miller"
+      ]
+    }
+  },
+  {
+    "model": "shop_final.book",
+    "pk": 73,
+    "fields": {
+      "title": "Книга два",
+      "year": 2005,
+      "pages": 446,
+      "isbn13": "978-0-942102-56-7",
+      "rating": 2.31,
+      "price": 109.44,
+      "author": [
+        "Anthony Smith",
+        "Joseph Hess"
+      ]
+    }
+  },
+  {
+    "model": "shop_final.book",
+    "pk": 74,
+    "fields": {
+      "title": "Книга раз",
+      "year": 1971,
+      "pages": 947,
+      "isbn13": "978-0-09-132404-9",
+      "rating": 0.79,
+      "price": 685.57,
+      "author": [
+        "Sharon Myers",
+        "Jimmy Brown"
+      ]
+    }
+  },
+  {
+    "model": "shop_final.book",
+    "pk": 75,
+    "fields": {
+      "title": "Очень-очень длинное-длинное название книги.",
+      "year": 1954,
+      "pages": 42,
+      "isbn13": "978-0-235-63347-1",
+      "rating": 0.41,
+      "price": 320.76,
+      "author": [
+        "Aaron White",
+        "Allison Carter"
+      ]
+    }
+  },
+  {
+    "model": "shop_final.book",
+    "pk": 76,
+    "fields": {
+      "title": "Книга четыре",
+      "year": 1996,
+      "pages": 284,
+      "isbn13": "978-1-167-71542-6",
+      "rating": 3.87,
+      "price": 848.38,
+      "author": [
+        "Jennifer Liu",
+        "Ashley Fields",
+        "Amy Lopez"
+      ]
+    }
+  },
+  {
+    "model": "shop_final.book",
+    "pk": 77,
+    "fields": {
+      "title": "Книга три",
+      "year": 1950,
+      "pages": 11,
+      "isbn13": "978-1-190-47528-1",
+      "rating": 3.6,
+      "price": 206.14,
+      "author": [
+        "Michelle Patel"
+      ]
+    }
+  },
+  {
+    "model": "shop_final.book",
+    "pk": 78,
+    "fields": {
+      "title": "Книга три",
+      "year": 1957,
+      "pages": 401,
+      "isbn13": "978-1-325-27230-3",
+      "rating": 1.58,
+      "price": 816.11,
+      "author": [
+        "Mrs. Julie Lopez",
+        "Melissa Ruiz"
+      ]
+    }
+  },
+  {
+    "model": "shop_final.book",
+    "pk": 79,
+    "fields": {
+      "title": "Книга раз",
+      "year": 1907,
+      "pages": 728,
+      "isbn13": "978-1-56378-872-7",
+      "rating": 3.72,
+      "price": 657.49,
+      "author": [
+        "Annette Wagner",
+        "Mitchell Lewis",
+        "Bailey Gibson"
+      ]
+    }
+  },
+  {
+    "model": "shop_final.book",
+    "pk": 80,
+    "fields": {
+      "title": "Книга три",
+      "year": 1924,
+      "pages": 86,
+      "isbn13": "978-1-57224-841-0",
+      "rating": 0.24,
+      "price": 137.39,
+      "author": [
+        "Renee Chandler",
+        "Robert James"
+      ]
+    }
+  },
+  {
+    "model": "shop_final.book",
+    "pk": 81,
+    "fields": {
+      "title": "Книга четыре",
+      "year": 1951,
+      "pages": 319,
+      "isbn13": "978-0-7751-4607-3",
+      "rating": 3.85,
+      "price": 733.19,
+      "author": [
+        "Katrina Brewer",
+        "Bethany Wilson"
+      ]
+    }
+  },
+  {
+    "model": "shop_final.book",
+    "pk": 82,
+    "fields": {
+      "title": "Книга пять",
+      "year": 1945,
+      "pages": 943,
+      "isbn13": "978-1-76515-028-5",
+      "rating": 2.45,
+      "price": 310.75,
+      "author": [
+        "Lauren Smith",
+        "Becky Ferguson",
+        "Mark Schultz"
+      ]
+    }
+  },
+  {
+    "model": "shop_final.book",
+    "pk": 83,
+    "fields": {
+      "title": "Книга раз",
+      "year": 1929,
+      "pages": 628,
+      "isbn13": "978-0-552-90856-6",
+      "rating": 2.94,
+      "price": 461.48,
+      "author": [
+        "Bridget Hunt",
+        "Stephanie Dixon"
+      ]
+    }
+  },
+  {
+    "model": "shop_final.book",
+    "pk": 84,
+    "fields": {
+      "title": "Книга два",
+      "year": 1920,
+      "pages": 410,
+      "isbn13": "978-1-995045-27-6",
+      "rating": 3.0,
+      "price": 138.32,
+      "author": [
+        "Paul Jones",
+        "Jennifer Rodriguez"
+      ]
+    }
+  },
+  {
+    "model": "shop_final.book",
+    "pk": 85,
+    "fields": {
+      "title": "Еще одно название...",
+      "year": 2012,
+      "pages": 869,
+      "isbn13": "978-1-4573-6551-5",
+      "rating": 2.61,
+      "price": 767.14,
+      "author": [
+        "Brandon Ford"
+      ]
+    }
+  },
+  {
+    "model": "shop_final.book",
+    "pk": 86,
+    "fields": {
+      "title": "Книга пять",
+      "year": 1954,
+      "pages": 795,
+      "isbn13": "978-1-903988-30-5",
+      "rating": 1.84,
+      "price": 216.37,
+      "author": [
+        "Jennifer Davis",
+        "Heidi Mcdonald"
+      ]
+    }
+  },
+  {
+    "model": "shop_final.book",
+    "pk": 87,
+    "fields": {
+      "title": "Книга два",
+      "year": 1994,
+      "pages": 133,
+      "isbn13": "978-1-966563-53-2",
+      "rating": 3.63,
+      "price": 549.67,
+      "author": [
+        "Christopher Palmer",
+        "Brian Flowers",
+        "Ryan Franklin"
+      ]
+    }
+  },
+  {
+    "model": "shop_final.book",
+    "pk": 88,
+    "fields": {
+      "title": "Книга два",
+      "year": 1921,
+      "pages": 117,
+      "isbn13": "978-1-101-91070-2",
+      "rating": 1.22,
+      "price": 380.52,
+      "author": [
+        "Jacqueline Arnold",
+        "Courtney Johnson",
+        "Ricky Smith"
+      ]
+    }
+  },
+  {
+    "model": "shop_final.book",
+    "pk": 89,
+    "fields": {
+      "title": "Еще одно название...",
+      "year": 1928,
+      "pages": 129,
+      "isbn13": "978-0-424-92825-8",
+      "rating": 0.64,
+      "price": 442.26,
+      "author": [
+        "Jason Rodgers",
+        "Eric Garcia",
+        "James Johnson"
+      ]
+    }
+  },
+  {
+    "model": "shop_final.book",
+    "pk": 90,
+    "fields": {
+      "title": "Книга два",
+      "year": 1996,
+      "pages": 984,
+      "isbn13": "978-1-918065-58-9",
+      "rating": 0.28,
+      "price": 419.31,
+      "author": [
+        "Brittney Turner",
+        "Ian Williams"
+      ]
+    }
+  },
+  {
+    "model": "shop_final.book",
+    "pk": 91,
+    "fields": {
+      "title": "Книга четыре",
+      "year": 1976,
+      "pages": 687,
+      "isbn13": "978-1-4125-0923-7",
+      "rating": 1.91,
+      "price": 477.43,
+      "author": [
+        "Diane Beard",
+        "Russell Rivera",
+        "Donna Quinn"
+      ]
+    }
+  },
+  {
+    "model": "shop_final.book",
+    "pk": 92,
+    "fields": {
+      "title": "Еще одно название...",
+      "year": 1904,
+      "pages": 605,
+      "isbn13": "978-1-65584-446-1",
+      "rating": 3.19,
+      "price": 518.68,
+      "author": [
+        "Nancy Nelson DDS",
+        "Carlos Ramos",
+        "Kenneth Graham"
+      ]
+    }
+  },
+  {
+    "model": "shop_final.book",
+    "pk": 93,
+    "fields": {
+      "title": "Еще одно название...",
+      "year": 2009,
+      "pages": 653,
+      "isbn13": "978-1-323-41799-7",
+      "rating": 0.43,
+      "price": 180.51,
+      "author": [
+        "Kyle Jackson"
+      ]
+    }
+  },
+  {
+    "model": "shop_final.book",
+    "pk": 94,
+    "fields": {
+      "title": "Книга четыре",
+      "year": 1993,
+      "pages": 618,
+      "isbn13": "978-1-114-22166-6",
+      "rating": 1.19,
+      "price": 890.43,
+      "author": [
+        "Erica Kaiser",
+        "Alexandria Bates",
+        "Kyle Aguirre"
+      ]
+    }
+  },
+  {
+    "model": "shop_final.book",
+    "pk": 95,
+    "fields": {
+      "title": "Книга пять",
+      "year": 1911,
+      "pages": 899,
+      "isbn13": "978-0-362-87453-2",
+      "rating": 4.19,
+      "price": 426.38,
+      "author": [
+        "Christopher Henderson",
+        "Brenda Rodriguez",
+        "Sabrina Allen"
+      ]
+    }
+  },
+  {
+    "model": "shop_final.book",
+    "pk": 96,
+    "fields": {
+      "title": "Книга четыре",
+      "year": 1961,
+      "pages": 791,
+      "isbn13": "978-1-130-35583-3",
+      "rating": 4.87,
+      "price": 375.17,
+      "author": [
+        "Bianca Shelton",
+        "Caitlin Ellis",
+        "Alicia Morrison"
+      ]
+    }
+  },
+  {
+    "model": "shop_final.book",
+    "pk": 97,
+    "fields": {
+      "title": "Книга три",
+      "year": 1913,
+      "pages": 58,
+      "isbn13": "978-1-870316-18-7",
+      "rating": 1.97,
+      "price": 274.65,
+      "author": [
+        "Christopher Becker",
+        "Matthew Lee"
+      ]
+    }
+  },
+  {
+    "model": "shop_final.book",
+    "pk": 98,
+    "fields": {
+      "title": "Очень-очень длинное-длинное название книги.",
+      "year": 1955,
+      "pages": 899,
+      "isbn13": "978-0-7675-4270-8",
+      "rating": 3.2,
+      "price": 237.25,
+      "author": [
+        "Dustin Castillo"
+      ]
+    }
+  },
+  {
+    "model": "shop_final.book",
+    "pk": 99,
+    "fields": {
+      "title": "Очень-очень длинное-длинное название книги.",
+      "year": 1953,
+      "pages": 796,
+      "isbn13": "978-1-72124-403-4",
+      "rating": 2.4,
+      "price": 539.02,
+      "author": [
+        "Frank Stark"
+      ]
+    }
+  },
+  {
+    "model": "shop_final.book",
+    "pk": 100,
+    "fields": {
+      "title": "Книга раз",
+      "year": 2020,
+      "pages": 395,
+      "isbn13": "978-0-671-11490-9",
+      "rating": 2.19,
+      "price": 216.57,
+      "author": [
+        "Michael Henry"
+      ]
+    }
+  }
+]

@@ -28,10 +28,26 @@ def titles_gen() -> Iterator[str]:
     Генератор. Возвращает случайно выбранное название из списка в файле.
     :return: str
     """
-    with open('fakebooks.txt') as fd:
-        booknames = fd.readlines()
+    index = []
+    with open('fakebooks.txt', 'rt') as fd:
+        start = -1
+        while start != fd.tell():
+            start = fd.tell()
+            line =  fd.readline()
+            line = line.rstrip()
+            if not line:
+                continue
+            index.append([start, len(line)])
     while True:
-        yield choice(booknames).rstrip()
+        i = choice(index)
+        with open('fakebooks.txt') as fd:
+            fd.seek(i[0])
+            name = fd.read(i[1])
+        yield name
+#    with open('fakebooks.txt') as fd:
+#        booknames = fd.readlines()
+#    while True:
+#        yield choice(booknames).rstrip()
 
 
 def year() -> int:
