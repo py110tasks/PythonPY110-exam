@@ -17,7 +17,7 @@ def main() -> None:
     Генерирует список из 100 случайно сгенерированных книг и записывает в файл в формате JSON.
     """
     books = book_gen()
-    out = [next(books) for _ in range(100)]
+    out = [getbook(books) for _ in range(100)]
     with open('out.json', 'w') as fd:
         fd.write(dumps(out, indent=2, ensure_ascii=False))
     return
@@ -32,6 +32,7 @@ def titles_gen() -> str:
         booknames = fd.readlines()
     while True:
         yield choice(booknames).rstrip()
+
 
 def year() -> int:
     """
@@ -63,7 +64,6 @@ def rating() -> float:
     :return: float
     """
     return round(uniform(0, 5), 2)
-    # return randint(0, 500)/100 ?
 
 
 def price() -> float:
@@ -72,7 +72,6 @@ def price() -> float:
     :return: float
     """
     return round(uniform(100, 1000), 2)
-    # return randint(10000, 100000)/100 ?
 
 
 def authors() -> list:
@@ -83,9 +82,35 @@ def authors() -> list:
     return [FAKE.name() for _ in range(randint(1, 3))]
 
 
+def lengthcheck(maxlen):
+    """
+    Фабрика декораторов для проверки длины названия книг.
+    :param maxlen: Максимальная длина названия.
+    :return: Декоратор для проверки.
+    """
+    def decorator(fn):
+        def wrapper(*args):
+            book = fn(*args)
+            if len(book['fields']['title']) > maxlen:
+                raise ValueError(f"Слишком длинное название книги: '{book['fields']['title']}'.")
+            return book
+        return wrapper
+    return decorator
+
+
+@lengthcheck(32)
+def getbook(books):
+    """
+    Враппер для возможности использовать декоратор.
+    :param books: Итератор
+    :return: dict
+    """
+    return next(books)
+
+
 def book_gen(counter: int = 1) -> Iterator[dict]:
     """
-    Возвращает случайно сгенерированую книгу.
+    Возвращает итератор для случайной генерации книг.
     :param counter: Стартовое значение для индекса книги, по-умолчанию 1
     :return: dict
     """
