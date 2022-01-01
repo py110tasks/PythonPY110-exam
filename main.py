@@ -23,7 +23,7 @@ def main() -> None:
     return
 
 
-def titles_gen() -> str:
+def titles_gen() -> Iterator[str]:
     """
     Генератор. Возвращает случайно выбранное название из списка в файле.
     :return: str
